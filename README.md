@@ -1,5 +1,5 @@
 # Descripción
-Este proyecto consiste en aprender cómo efectuar consultas en una bbase de datos en MongoDB.
+Este proyecto consiste en aprender cómo efectuar consultas en una base de datos en MongoDB.
 
 # Tecnologías usadas
 - MongoDB v8.0.0
